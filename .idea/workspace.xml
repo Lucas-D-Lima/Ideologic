@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Ideologic.kt" line="16" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Ideologic.kt" />
+    <bookmark url="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/misc/MentionCommand.kt" line="6" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3c071962-f700-4934-b682-807153966ee2" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Ideologic" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/VariaveisEconomicas.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/WorkCommand.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+              <folding>
+                <element signature="e#45#170#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/UserInfoCommand.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/ServerRoles.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Ideologic.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/RankCommand.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/HelpCommand.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="12" column="433" selection-start-line="12" selection-start-column="433" selection-end-line="12" selection-end-column="433" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/MoneyCommand.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="7" column="156" selection-start-line="7" selection-start-column="156" selection-end-line="7" selection-end-column="156" />
+              <folding>
+                <element signature="e#45#170#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/HelpEconomic.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="7" column="129" selection-start-line="7" selection-start-column="129" selection-end-line="7" selection-end-column="129" />
+              <folding>
+                <element signature="e#45#170#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/TantoGanho.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="XSLT Stylesheet" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/AdmMod/Ban.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Misc2/BatalhaComand.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Misc2/Game.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/DadoCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/AdmMod/BanCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/misc/ServerRoles.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/misc/HelpCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/Teste.fxml" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/tets.fxml" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/RankCommand.fxml" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/RankCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/250Economy.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/DoisCincoZero.java" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/UserInfo2Command.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/ServerRoles.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/RankCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/CalcCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/social/HugCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/misc/AvatarCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/misc/PingCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/TrabalhoCommand.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/CaraCoroa.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/CaraCoroaCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/Ideologic/api/OnlineStatus.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/ideologicLaucher.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/UserInfoCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/ServerInfoCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/misc/DigaCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/RibaCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/EmotesTestCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/listerns/DiscordListerns.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/misc/LinkCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/misc/EmendsTestCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/ServerCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/Midias.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/Emotes.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/social/Midias.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/misc/EmojiCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/misc/MentionCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/TantoGanho.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/misc/MenesCommands.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/IdeologicAI/AiStartCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/AbstractCommands.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/misc/BotCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/VariaveisEconomicas.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/WorkCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/MoneyCommand.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/HelpEconomic.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Ideologic.kt" />
+        <option value="$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/HelpCommand.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1004" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Ideologic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ideologic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ideologic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ideologic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ideologic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ideologic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ideologic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ideologic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Kotlin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ideologic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ideologic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="Ideologic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ideologic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ideologic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="Ideologic" type="462c0819:PsiDirectoryNode" />
+              <item name="Commands" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ideologic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ideologic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="Ideologic" type="462c0819:PsiDirectoryNode" />
+              <item name="Commands" type="462c0819:PsiDirectoryNode" />
+              <item name="economic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ideologic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ideologic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="Kotlin" type="462c0819:PsiDirectoryNode" />
+              <item name="Ideologic" type="462c0819:PsiDirectoryNode" />
+              <item name="Commands" type="462c0819:PsiDirectoryNode" />
+              <item name="Utilitario" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553625432575" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.ldl.Ideologic.Commands.social" />
+      <recent name="com.ldl.Ideologic.Commands.Utilitario" />
+      <recent name="com.ldl.Ideologic.Commands.misc" />
+      <recent name="com.ldl.Ideologic" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Kotlin.com.ldl.Ideologic.ideologicLaucher">
+    <configuration name="DoisCincoZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ldl.Ideologic.Commands.economic.DoisCincoZero" />
+      <module name="Ideologic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ldl.Ideologic.Commands.economic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrabalhoCommand" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ldl.Ideologic.Commands.economic.TrabalhoCommand" />
+      <module name="Ideologic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ldl.Ideologic.Commands.economic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ldl.Ideologic.Commands.economic.TantoGanho" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Ideologic" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.ldl.Ideologic.Commands.economic.TantoGanho" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ldl.Ideologic.ideologicLaucher" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Ideologic" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.ldl.Ideologic.ideologicLaucher" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.com.ldl.Ideologic.ideologicLaucher" />
+        <item itemvalue="Kotlin.com.ldl.Ideologic.Commands.economic.TantoGanho" />
+        <item itemvalue="Application.TrabalhoCommand" />
+        <item itemvalue="Application.DoisCincoZero" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3c071962-f700-4934-b682-807153966ee2" name="Default Changelist" comment="" />
+      <created>1551460419409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551460419409</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.38163266" />
+      <window_info id="Structure" order="1" sideWeight="0.502439" side_tool="true" weight="0.3510204" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.502439" side_tool="true" weight="0.3510204" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49591836" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.34042552" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5040816" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4989796" weight="0.32569557" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.3510204" />
+      <window_info id="Structure" order="1" sideWeight="0.502439" side_tool="true" weight="0.3510204" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.502439" side_tool="true" weight="0.3510204" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49591836" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.34042552" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5040816" side_tool="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.4989796" weight="0.32569557" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/AdmMod/BanCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/Teste.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/tets.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/tetris.xsl" />
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/RankCommand.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/RankCommand.fxml" />
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/250Economy.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/UserInfo2Command.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/DoisCincoZero.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/TrabalhoCommand.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/Work.kt" />
+    <entry file="file://$PROJECT_DIR$/Ideologic.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="26" column="22" selection-start-line="26" selection-start-column="22" selection-end-line="26" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/CaraCoroa.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/CaraCoroaCommand.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/sonhos/Ideologic/Api/OnlineStatus.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/Ideologic/api/OnlineStatus.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/RibaCommand.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/social/Midias.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="8" column="281" selection-start-line="8" selection-start-column="281" selection-end-line="8" selection-end-column="281" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/misc/DigaCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/misc/EmendsTestCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="51" selection-start-line="10" selection-start-column="44" selection-end-line="10" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/misc/LinkCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="9" column="285" selection-start-line="9" selection-start-column="259" selection-end-line="9" selection-end-column="285" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/ServerCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/ServerInfoCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="17" column="51" selection-start-line="17" selection-start-column="51" selection-end-line="17" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/EmotesTestCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="54" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="54" />
+          <folding>
+            <element signature="e#47#172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/social/HugCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/misc/PingCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/misc/MentionCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <element signature="e#41#167#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/misc/EmojiCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="46" />
+          <folding>
+            <element signature="e#41#166#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/listerns/DiscordListerns.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#36#195#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/CreatItem.kt" />
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/misc/MenesCommands.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/IdeologicAI/AiStartCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/misc/BotCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/misc/AvatarCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/CalcCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/ItensCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/CriarItensCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/AbstractCommands.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/ideologicLaucher.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/Emotes.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/UserInfoCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/ServerRoles.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/WorkCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#45#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/TantoGanho.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/MoneyCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="7" column="156" selection-start-line="7" selection-start-column="156" selection-end-line="7" selection-end-column="156" />
+          <folding>
+            <element signature="e#45#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Ideologic.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="43" column="25" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/RankCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/Utilitario/HelpCommand.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="12" column="433" selection-start-line="12" selection-start-column="433" selection-end-line="12" selection-end-column="433" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/VariaveisEconomicas.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/Kotlin/com/ldl/Ideologic/Commands/economic/HelpEconomic.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="7" column="129" selection-start-line="7" selection-start-column="129" selection-end-line="7" selection-end-column="129" />
+          <folding>
+            <element signature="e#45#170#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Kotlin</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Ideologic</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>KotlinJavaRuntime (5)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
